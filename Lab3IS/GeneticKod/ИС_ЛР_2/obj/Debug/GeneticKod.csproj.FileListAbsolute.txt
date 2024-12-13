@@ -1,0 +1,52 @@
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.AssemblyReference.cache
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.SuggestedBindingRedirects.cache
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.GenerateResource.cache
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.CoreCompileInputs.cache
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+D:\DOCS\LABS\ИС\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+E:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+E:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+E:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.AssemblyReference.cache
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.SuggestedBindingRedirects.cache
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.GenerateResource.cache
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.CoreCompileInputs.cache
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+E:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+D:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+D:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+D:\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.AssemblyReference.cache
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.GenerateResource.cache
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.CoreCompileInputs.cache
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+D:\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.AssemblyReference.cache
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.GenerateResource.cache
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.CoreCompileInputs.cache
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+D:\Виталя\Готовые к сдаче долги\Интеллектуальные системы (Готовое)\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.AssemblyReference.cache
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.GenerateResource.cache
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\GeneticKod.csproj.CoreCompileInputs.cache
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+C:\Users\Serafim01\Desktop\GenCode\GeneticKod\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb

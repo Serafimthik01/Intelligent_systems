@@ -1,0 +1,42 @@
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+C:\Users\admin\source\repos\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csprojAssemblyReference.cache
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.GenerateResource.cache
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.CoreCompileInputs.cache
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+K:\ИИ\лабы2\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.AssemblyReference.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.GenerateResource.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.CoreCompileInputs.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\ЛР_ИС_2\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe.config
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\bin\Debug\ИС_ЛР_2.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.AssemblyReference.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Lab2.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.Properties.Resources.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.GenerateResource.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.csproj.CoreCompileInputs.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\Генетический код\ИС_ЛР_2\ИС_ЛР_2\obj\Debug\ИС_ЛР_2.pdb

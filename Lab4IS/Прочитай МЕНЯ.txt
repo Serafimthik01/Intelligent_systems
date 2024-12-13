@@ -1,0 +1,1 @@
+Перетащи VPX.EXE на DOSBox.exe, далее consult и файл SERAFIM.KBS

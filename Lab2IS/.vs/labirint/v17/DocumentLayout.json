@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA1FA2F-8439-4C53-89AA-CE8AA8121A06}|labirint\\labirint.csproj|c:\\users\\serafim01\\desktop\\\u0438\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BA1FA2F-8439-4C53-89AA-CE8AA8121A06}|labirint\\labirint.csproj|solutionrelative:labirint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA1FA2F-8439-4C53-89AA-CE8AA8121A06}|labirint\\labirint.csproj|C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA1FA2F-8439-4C53-89AA-CE8AA8121A06}|labirint\\labirint.csproj|solutionrelative:labirint\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\Form1.cs",
+              "RelativeDocumentMoniker": "labirint\\Form1.cs",
+              "ToolTip": "C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\Form1.cs",
+              "RelativeToolTip": "labirint\\Form1.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwD0BAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:31:19.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\Form1.cs",
+              "RelativeDocumentMoniker": "labirint\\Form1.cs",
+              "ToolTip": "C:\\Users\\Serafim01\\Desktop\\\u0418\u043D\u0442\u0435\u043B. \u0441\u0438\u0441\u0442. 1 \u043B\u0430\u0431\u0430\\labirint\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "labirint\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T05:31:19.92Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

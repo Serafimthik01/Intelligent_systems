@@ -1,0 +1,254 @@
+! Name of the expert system: Sports Advisor
+! Description:  This system assists a user in diagnosing motorcycle
+!               problems and in finding out how to solve them.
+! Microcomputer used: IBM PC compatible
+! Saved file name: SERAFIM.KBS
+
+ENDOFF;
+RUNTIME;
+
+! ACTIONS BLOCK
+ACTIONS
+WOPEN 1,0,0,23,79,2
+ACTIVE 1
+DISPLAY "
+
+
+
+                                Sports Advisor
+
+                          Developed by Serafim Baturo
+	
+
+
+
+
+
+
+                          Press any key to continue~"
+
+WCLOSE 1
+
+   DISPLAY "Welcome to the Sport Advisor for You!"
+   FIND RECO
+   DISPLAY " Based on the answers you have given,
+   I recommend that you: {RECO}";
+
+
+RULE 1-1
+IF       START = NO
+THEN     RECO = Good_Bye;
+
+RULE 2-1
+IF	 SPORT = NO
+THEN     RECO = You_need_to_love_sports_Good_Bye;
+
+RULE 3-1
+IF       SANG = YES
+THEN	 SANGCHECK = OK;
+
+RULE 3-2
+IF       SANG = NO
+THEN	 SANGCHECK = NOK; 
+
+RULE 4-1
+IF	 SANGCHECK = OK
+	 AND LEGS = YES
+THEN	 LEGSCHECK = OK;
+
+RULE 4-2
+IF	 SANGCHECK = OK
+	 AND LEGS = NO
+THEN	 LEGSCHECK = NOK;
+
+RULE 5-1
+IF	 SANGCHECK = OK
+	 AND LEGSCHECK = OK
+	 AND TEAMPLAY = YES
+THEN	 RECO = Football;
+
+RULE 5-2
+IF	 SANGCHECK = OK
+	 AND LEGSCHECK = OK
+	 AND TEAMPLAY = NO
+THEN	 RECO = Running;
+
+RULE 5-3
+IF	 SANGCHECK = OK
+	 AND LEGSCHECK = NOK
+	 AND SWIM = YES
+THEN	 RECO = Swimming;
+
+RULE 5-4
+IF	 SANGCHECK = OK
+	 AND LEGSCHECK = NOK
+	 AND SWIM = NO
+THEN	 RECO = Nordic_walking;
+
+
+
+
+
+
+RULE 4-3
+IF	 SANGCHECK = NOK
+	 AND CHOL = YES
+THEN	 CHOLCHECK = OK;
+
+RULE 4-4
+IF	 SANGCHECK = NOK
+	 AND CHOL = NO
+THEN	 CHOLCHECK = NOK;
+
+RULE 5-5
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = OK
+	 AND REACT = YES
+THEN	 RECO = Basketball;
+
+RULE 5-5
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = OK
+	 AND REACT = NO
+THEN	 RECO = Hockey;
+
+
+
+
+
+
+RULE 4-5
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEG = YES
+THEN	 FLEGCHECK = OK;
+
+RULE 4-6
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEG = NO
+THEN	 FLEGCHECK = NOK;
+
+RULE 5-6
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = OK
+	 AND SHY = YES
+THEN	 RECO = Chess;
+
+RULE 5-7
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = OK
+	 AND SHY = NO
+THEN	 RECO = Golf;
+
+
+
+
+
+
+
+RULE 5-8
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = NOK
+	 AND MELAN = YES
+THEN	 MELANCHECK = OK;
+
+RULE 5-9
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = NOK
+	 AND MELAN = NO
+THEN	 MELANCHECK = NOK;
+
+
+
+
+
+
+
+RULE 6-1
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = NOK
+	 AND MELANCHECK = OK
+	 AND INDIV = YES
+THEN	 RECO = Yoga;
+
+RULE 6-2
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = NOK
+	 AND MELANCHECK = OK
+	 AND INDIV = NO
+THEN	 RECO = Hiking;
+
+
+
+
+
+
+RULE 666
+IF	 SANGCHECK = NOK
+	 AND CHOLCHECK = NOK
+	 AND FLEGCHECK = NOK
+	 AND MELANCHECK = NOK
+THEN	 RECO = Who_are_u????;
+
+!STATEMENTS BLOCK
+
+ASK START: "Want to determine the right sport?";
+CHOICES START: YES,NO;
+
+ASK SPORT: "Do u likes sports?";
+CHOICES SPORT: YES,NO;
+
+
+
+
+
+ASK SANG: "You are active, sociable, energetic?";
+CHOICES SANG : YES,NO;
+
+ASK LEGS: "Do you have well developed legs?";
+CHOICES LEGS : YES,NO;
+
+ASK TEAMPLAY: "Do you prefer to play in a team?";
+CHOICES TEAMPLAY : YES,NO;
+
+ASK SWIM: "Do you like water?";
+CHOICES SWIM : YES,NO;
+
+
+
+
+
+ASK CHOL: "You are energetic, impulsive, hot-tempered?";
+CHOICES CHOL : YES,NO;
+
+ASK REACT: "Do you want a sport that requires high intensity and quick decisions?";
+CHOICES REACT : YES,NO;
+
+
+
+
+
+ASK FLEG: "You are calm, balanced, slow";
+CHOICES FLEG : YES,NO;
+
+ASK SHY: "Do you prefer sports that require a slow, deliberate approach?";
+CHOICES SHY : YES,NO;
+
+
+
+
+
+
+ASK MELAN: "Are you sensitive, prone to worry, shy?";
+CHOICES MELAN : YES,NO;
+
+ASK INDIV: "Do you prefer individual sports?";
+CHOICES INDIV : YES,NO;
+

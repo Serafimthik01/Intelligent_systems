@@ -1,0 +1,137 @@
+C:\Users\Игорь\source\repos\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\Игорь\source\repos\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\Игорь\source\repos\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.csprojAssemblyReference.cache
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\Игорь\source\repos\labirint\labirint\obj\Debug\labirint.pdb
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.csprojAssemblyReference.cache
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\Игорь\Desktop\ИС\labirint\labirint\obj\Debug\labirint.pdb
+K:\ИИ\labirint\labirint\bin\Debug\labirint.exe.config
+K:\ИИ\labirint\labirint\bin\Debug\labirint.exe
+K:\ИИ\labirint\labirint\bin\Debug\labirint.pdb
+K:\ИИ\labirint\labirint\obj\Debug\labirint.csprojAssemblyReference.cache
+K:\ИИ\labirint\labirint\obj\Debug\labirint.Form1.resources
+K:\ИИ\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+K:\ИИ\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+K:\ИИ\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+K:\ИИ\labirint\labirint\obj\Debug\labirint.exe
+K:\ИИ\labirint\labirint\obj\Debug\labirint.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\Trolo\OneDrive\Рабочий стол\labirint\labirint\obj\Debug\labirint.pdb
+D:\labirint-20231005T173441Z-001\labirint\labirint\bin\Debug\labirint.exe.config
+D:\labirint-20231005T173441Z-001\labirint\labirint\bin\Debug\labirint.exe
+D:\labirint-20231005T173441Z-001\labirint\labirint\bin\Debug\labirint.pdb
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.Form1.resources
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.exe
+D:\labirint-20231005T173441Z-001\labirint\labirint\obj\Debug\labirint.pdb
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.pdb
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ИС\labirint-lab2\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\User\Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.pdb
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.exe.config
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.exe
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\bin\Debug\labirint.pdb
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.exe
+C:\Users\imaxi\Downloads\Telegram Desktop\сдать лабу лабиринт\labirint\labirint\obj\Debug\labirint.pdb
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.Form1.resources
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.exe
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.pdb
+D:\Labs\ISLabs\labirint\labirint\bin\Debug\labirint.exe.config
+D:\Labs\ISLabs\labirint\labirint\bin\Debug\labirint.exe
+D:\Labs\ISLabs\labirint\labirint\bin\Debug\labirint.pdb
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.Properties.Resources.resources
+D:\Labs\ISLabs\labirint\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+D:\Labs\ISLabs\labirint — копия\labirint\bin\Debug\labirint.exe.config
+D:\Labs\ISLabs\labirint — копия\labirint\bin\Debug\labirint.exe
+D:\Labs\ISLabs\labirint — копия\labirint\bin\Debug\labirint.pdb
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.Form1.resources
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.Properties.Resources.resources
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.exe
+D:\Labs\ISLabs\labirint — копия\labirint\obj\Debug\labirint.pdb
+D:\ж\labirint\bin\Debug\labirint.exe.config
+D:\ж\labirint\bin\Debug\labirint.exe
+D:\ж\labirint\bin\Debug\labirint.pdb
+D:\ж\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+D:\ж\labirint\obj\Debug\labirint.Form1.resources
+D:\ж\labirint\obj\Debug\labirint.Properties.Resources.resources
+D:\ж\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+D:\ж\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+D:\ж\labirint\obj\Debug\labirint.exe
+D:\ж\labirint\obj\Debug\labirint.pdb
+E:\ж\labirint\bin\Debug\labirint.exe.config
+E:\ж\labirint\bin\Debug\labirint.exe
+E:\ж\labirint\bin\Debug\labirint.pdb
+E:\ж\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+E:\ж\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+E:\ж\labirint\obj\Debug\labirint.Form1.resources
+E:\ж\labirint\obj\Debug\labirint.Properties.Resources.resources
+E:\ж\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+E:\ж\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+E:\ж\labirint\obj\Debug\labirint.exe
+E:\ж\labirint\obj\Debug\labirint.pdb
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\bin\Debug\labirint.exe.config
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\bin\Debug\labirint.exe
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\bin\Debug\labirint.pdb
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.exe
+C:\Users\Serafim01\Desktop\Интел. сист. 1 лаба\labirint\obj\Debug\labirint.pdb
